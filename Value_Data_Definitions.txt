@@ -1,0 +1,37 @@
+The fields in the Value Data are as follows:
+
+
+Definition                    : Explanation
+==================================================================================================
+Ticker                        : Stocker Ticker
+Price                         : Cost per share of the stock
+Market Capitalisation         : Number of shares x Price of each share
+Forward Dividend Yield        : Expected Dividend yield for the next payout
+Payout Ratio                  : Dividend paid (per share) / Net Income (per share)
+P/E ratio forward             : Price / Earnings ratio (forward)
+Price / Sales                 : Amount paid per unit of sales
+Price / Book                  : Amount paid per unit of quity
+EV to Reveue                  : Enterprise Value / Net Revenue
+EV to EBITDA                  : Enterprise Value / EBITDA
+Enterprise Value              : (Market Capitalisation + Debt - Cash)
+Acquirers Multiple            : Enterprise Value / Profits (or Earnings)
+Book Value per Share          : Cost of equity per share
+Cash Per Share                : Total Cash available per share
+Cash to Market Capitalisation : Total Cash available relative to total share Market Capitalisation
+Cash to Debt                  : Cash / Debt
+Current Ratio                 : Current Assets / Current Liabilities
+Debt to Market Capitalisation : Total Debt relative to total share Market Capitalisation
+Debt to Equity Ratio          : Debt / (Assets - Liabilities)
+EPS                           : Earnings per Share
+EBITDA per share              : EBITDA per Share
+Net Income per share          : Net Income per Share
+Net Income Margin Ratio       : Net Income / Revenue
+Revenue per Share             : Revenue per Share
+EV to OCF                     : Enterprise Value / Operating Cash Flow
+OCF to Revenue Ratio          : Operating Cash Flow / Revenue
+LFCF                          : Leveraged Free Cash Flow (OCF - debt)
+LFCF to Market Capitalisation : Leveraged Free Cash Flow / Market Capitalisation
+LFCF per share                : Leveraged Free Cash Flow per Share
+OCF                           : Operating Cash Flow
+OCF to Market Capitalisation  : Operating Cash Flow / Market Capitalisation
+OCF per share                 : Operating Cash Flow per share 

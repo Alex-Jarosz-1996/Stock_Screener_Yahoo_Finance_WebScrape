@@ -1,0 +1,59 @@
+The fields in the All Data are as follows:
+
+
+Definition                    : Explanation
+==================================================================================================
+Ticker                        : Stocker Ticker
+Price                         : Cost per share of the stock
+Market Capitalisation         : Number of shares x Price of each share
+Yearly Low Price              : 52 Week Low Price
+Yearly High Price             : 52 Week High Price
+Number of Share Available     : Max Number of shares available for investor to purchase of company
+50 day MA                     : 50 day Moving average (Average price of share of last 50 days)
+200 day MA                    : 200 day Moving average (Average price of share of last 200 days)
+P/E ratio trailing            : Price / Earnings ratio (trailing)
+P/E ratio forward             : Price / Earnings ratio (forward)
+Price / Sales                 : Amount paid per unit of sales
+Price / Book                  : Amount paid per unit of quity
+EV to Reveue                  : Enterprise Value / Net Revenue
+EV to EBITDA                  : Enterprise Value / EBITDA
+Enterprise Value              : (Market Capitalisation + Debt - Cash)
+Acquirers Multiple            : Enterprise Value / Profits (or Earnings)
+Forward Dividend Yield        : Expected Dividend yield for the next payout
+Forward Dividend Rate         : Expected Dividend value for next payout
+Trailing Dividend Yield       : Actual Dividend yield for the prior payout
+Trailing Dividend Rate        : Actual Dividend value for the prior payout
+Payout Ratio                  : Dividend paid (per share) / Net Income (per share)
+Ex Dividend Date              : Final day (past/future) that investor could purchase share to receive Dividend
+Book Value per Share          : Cost of equity per share
+Cash                          : Cash Listed on the Balance Sheet
+Cash Per Share                : Total Cash available per share
+Cash to Market Capitalisation : Total Cash available relative to total share Market Capitalisation
+Cash to Debt                  : Cash / Debt
+Current Ratio                 : Current Assets / Current Liabilities
+Debt                          : Debt Listed on the Balance Sheet
+Debt to Market Capitalisation : Total Debt relative to total share Market Capitalisation
+Debt to Equity Ratio          : Debt / (Assets - Liabilities)
+Return on Assets              : Net Income / Total Assets listed on Balance Sheet
+Return on Equity              : Net Income / (Total Assets - Total Liabilities)
+Earnings Growth               : Growth in earnings compared to previous period (%)
+EPS                           : Earnings per Share
+EBITDA                        : Earnings before Interest, Taxes, Depreciation and Amortization
+EBITDA per share              : EBITDA per Share
+Gross Profit:                 : Company profit - costs of making and selling the product
+Profit Margin                 : (Gross Profit / Revenue) * 100
+Net Income                    : Bottom Line Income (after all expenses have been accounted for)
+Net Income per share          : Net Income per Share
+Net Income Margin Ratio       : Net Income / Revenue
+Operating Margin              : Operating Income / Revenue
+Profit Margin                 : (Profit / Revenue) * 100
+Revenue                       : Value of all gooss and services recognised by a company
+Revenue per Share             : Revenue per Share
+EV to OCF                     : Enterprise Value / Operating Cash Flow
+OCF to Revenue Ratio          : Operating Cash Flow / Revenue
+LFCF                          : Leveraged Free Cash Flow (OCF - debt)
+LFCF to Market Capitalisation : Leveraged Free Cash Flow / Market Capitalisation
+LFCF per share                : Leveraged Free Cash Flow per Share
+OCF                           : Operating Cash Flow
+OCF to Market Capitalisation  : Operating Cash Flow / Market Capitalisation
+OCF per share                 : Operating Cash Flow per share
